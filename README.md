@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**Gevorez/Gevorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+○ 👋 My name is Kamil
 
-Here are some ideas to get you started:
+○ 👀 I’m interested in GameDev and graphic design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+○ 🌱 I’m currently learning Unreal Engine 5.0.
+
+○ 💞️ I’m a huge Formula 1 fan.
+
+○ 📫 How to reach me: https://pl.linkedin.com/in/niewiarowskikamil
+
+
