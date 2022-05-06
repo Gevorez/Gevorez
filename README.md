@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gevorez&left_color=green&right_color=red)
 
 ○ 👋 My name is Kamil
 
@@ -10,6 +10,5 @@
 
 ○ 📫 How to reach me: https://pl.linkedin.com/in/niewiarowskikamil
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gevorez&left_color=green&right_color=red)
 
 
