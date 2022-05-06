@@ -1,5 +1,5 @@
-### Hello 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gevorez&left_color=green&right_color=red)
-
+### Hello 👋 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gevorez&left_color=green&right_color=red)
 ------------------------------------------------------------------
 
 ### Bio
