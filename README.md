@@ -1,5 +1,7 @@
 ### Hello 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gevorez&left_color=green&right_color=red)
 
+------------------------------------------------------------------
+
 ○ 👋 My name is Kamil
 
 ○ 👀 I’m interested in GameDev and graphic design.
@@ -17,6 +19,8 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+------------------------------------------------------------------
 
 
 
