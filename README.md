@@ -10,6 +10,6 @@
 
 ○ 📫 How to reach me: https://pl.linkedin.com/in/niewiarowskikamil
 
-https://visitor-badge.glitch.me/badge?page_id=gevorez.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gevorez&left_color=green&right_color=red)
 
 
