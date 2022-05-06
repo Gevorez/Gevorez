@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------
 
-## Bio
+### Bio
 
 ○ 👋 My name is Kamil
 
@@ -16,7 +16,7 @@
 
 ------------------------------------------------------------------
 
-## Technologies
+### Technologies
 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
@@ -26,7 +26,7 @@
 
 ------------------------------------------------------------------
 
-## Joke of the day
+### Joke of the day
 
 <!-- Markdown -->
 
