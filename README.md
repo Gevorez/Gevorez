@@ -5,7 +5,7 @@
 
 ### Bio
 
-○ 👋 My name is Kamil
+○ 👋 My name is Kamil. I'm a VR Unity Developer at VRR Immersive Technologies
 
 ○ 👀 I’m interested in GameDev and graphic design.
 
