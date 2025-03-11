@@ -5,13 +5,13 @@
 
 ### Bio
 
-○ 👋 My name is Kamil. I'm a VR Unity Developer at VRR Immersive Technologies
+○ 👋 My name is Kamil. I'm an Automotive HMI Developer specializing in Qt/QML and C++.
 
-○ 👀 I’m interested in GameDev and graphic design.
+○ 👀 I’m interested in creating intuitive and sleek user interfaces for automotive systems.
 
-○ 🌱 I’m currently learning Unreal Engine 5.0.
+○ 🌱 I’m currently expanding my expertise in advanced QML features and automotive-grade C++.
 
-○ 💞️ I’m a huge Formula 1 fan.
+○ 💞️ I'm a huge fan of innovative automotive technologies and Formula 1 racing.
 
 ○ 📫 How to reach me: https://pl.linkedin.com/in/niewiarowskikamil
 
@@ -19,9 +19,11 @@
 
 ### Technologies
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![QML](https://img.shields.io/badge/QML-%23313131.svg?style=for-the-badge&logo=qt&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ------------------------------------------------------------------
 
@@ -32,5 +34,3 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 ------------------------------------------------------------------
-
-
